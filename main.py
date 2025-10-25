@@ -346,7 +346,7 @@ class SpellingTestScreen(Screen):
         def _do_tts(dt):
             #print(f"[DEBUG] Speaking: {text}")  # for logcat/desktop debug
             speak(text)
-
+ 
         Clock.schedule_once(_do_tts, 0.1)
 
         
