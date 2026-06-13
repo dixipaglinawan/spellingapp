@@ -1,0 +1,4 @@
+kivy
+plyer
+pyobjus>=1.2.4
+pyttsx3

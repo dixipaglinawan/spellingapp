@@ -1,0 +1,7 @@
+pyproject.toml
+spellingapp.egg-info/PKG-INFO
+spellingapp.egg-info/SOURCES.txt
+spellingapp.egg-info/dependency_links.txt
+spellingapp.egg-info/entry_points.txt
+spellingapp.egg-info/requires.txt
+spellingapp.egg-info/top_level.txt

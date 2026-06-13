@@ -1,0 +1,2 @@
+[console_scripts]
+spellingapp = main:SpellingApp.run
