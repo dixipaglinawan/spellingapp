@@ -1,0 +1,7 @@
+.venv/
+venv/
+*.apk
+*.aab
+build/
+dist/
+*.egg-info/
